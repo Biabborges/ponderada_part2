@@ -9,7 +9,12 @@ Link para visualização dos relacionamentos do modelo lógico: https://dbdiagra
 
 ## Conexão com a RDS
 
+### Instância conectada
+
 ![Instância](/instância.jpg)
+
+### Conexão com o banco de dados
+
 ![Conexão](/conexão.png)
 
 
